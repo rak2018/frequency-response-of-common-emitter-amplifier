@@ -1,15 +1,15 @@
 # frequency-response-of-common-emitter-amplifier
 # Aim
-<img width="357" height="220" alt="Screenshot 2025-12-01 092016" src="https://github.com/user-attachments/assets/d9b7602a-32b2-4aa5-a497-964b43973383" />
+![WhatsApp Image 2025-12-01 at 09 26 55_0620db39](https://github.com/user-attachments/assets/e731fd53-7f1d-49e6-a39f-2eabd6887e22)
 -----------------------
 # Theory
-<img width="381" height="226" alt="Screenshot 2025-12-01 092329" src="https://github.com/user-attachments/assets/240bf76c-1b9e-4b3d-a180-2e70840e99aa" />
+![WhatsApp Image 2025-12-01 at 09 27 15_0f4f5167](https://github.com/user-attachments/assets/e448785f-3a74-4c9c-9bba-d164c09dd3aa)
 -----------------
 # Circuit
 ![WhatsApp Image 2025-11-27 at 08 43 00_25aebf1d](https://github.com/user-attachments/assets/1a2be7a8-8425-4790-afb6-b88971304f90)
 ---------------------------
 # Procedure
-<img width="355" height="332" alt="Screenshot 2025-12-01 092421" src="https://github.com/user-attachments/assets/59ffce88-f9ff-431e-9786-6f8d2ca0ae04" />
+![WhatsApp Image 2025-12-01 at 09 27 30_be762e0e](https://github.com/user-attachments/assets/70871038-893c-461f-8ab6-a7236f3ddcd0)
 ----------------------------------
 # Model graph
 ![WhatsApp Image 2025-11-27 at 08 43 01_06262683](https://github.com/user-attachments/assets/c4cb9efa-c140-4bd3-b4b9-cab935903a39)
